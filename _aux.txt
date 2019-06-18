@@ -4,3 +4,5 @@ Side-gig change 1 in _aux
 Side-gig change 2 in _auxChange made in another working directory, on master branch.
 
 Side-gig work is done!
+
+Now feature3 added in feature3 branch.
